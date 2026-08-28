@@ -1,5 +1,5 @@
 package learn_modules
 
-func LearnModules() string {
-	return "Learn Modules - Test Update"
+func LearnModules(name string) string {
+	return "Learn Modules - Test Update" + name
 }
