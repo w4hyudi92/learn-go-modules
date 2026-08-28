@@ -1,3 +1,3 @@
-module learn-go-modoules
+module learn-go-modules
 
 go 1.25.1
